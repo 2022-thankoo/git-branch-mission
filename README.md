@@ -6,3 +6,7 @@
 * [라라](https://github.com/2022-thankoo/git-branch-mission/blob/main/lala.md)
 * [비녀](https://github.com/2022-thankoo/git-branch-mission/beenyeo.md)
 * [후니](https://github.com/2022-thankoo/git-branch-mission/blob/main/huni.md)
+
+
+## 프로젝트 소개
+- 당신의 감정을 선물하세요, 땡쿠 ㅋ
