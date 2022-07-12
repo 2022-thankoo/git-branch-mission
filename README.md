@@ -2,7 +2,7 @@
 
 * 호호
 * 후이
-* 스컬
+* [스컬](https://github.com/2022-thankoo/git-branch-mission/blob/main/skullIntroduction.md)
 * 라라
 * 비녀
 * 후니
