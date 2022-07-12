@@ -5,4 +5,4 @@
 * 스컬
 * 라라
 * 비녀
-* 후니
+* [후니](https://github.com/2022-thankoo/git-branch-mission/blob/main/huni.md)
