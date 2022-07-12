@@ -4,5 +4,5 @@
 * [후이](https://github.com/2022-thankoo/git-branch-mission/blob/main/HUI.md)
 * [스컬](https://github.com/2022-thankoo/git-branch-mission/blob/main/skullIntroduction.md)
 * [라라](https://github.com/2022-thankoo/git-branch-mission/blob/main/lala.md)
-* 비녀
+* [비녀](https://github.com/2022-thankoo/git-branch-mission/beenyeo.md)
 * [후니](https://github.com/2022-thankoo/git-branch-mission/blob/main/huni.md)
